@@ -9,3 +9,8 @@ Installation
 4. Reopen ChemDraw and click **View > Templates > ITC Equipment**.
 
 (NB only tested on Windows, should work on Mac too).
+
+Example
+=======
+
+![Examples of components in use](https://raw.githubusercontent.com/itc/chemdraw-templates/master/Example.png)
