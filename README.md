@@ -3,7 +3,7 @@ Installation
 
 &#10162; [Download the files as a ZIP archive](https://github.com/itc/chemdraw-templates/archive/v1.0.0.zip)
 
-1. Open the **ITC Equipment.ctp** file with ChemDraw.
+1. Open the **ITC Equipment.ctp** file with ChemDraw. (You may have to open ChemDraw first and then drag the file in).
 2. Click **File > Save As...** then **Save**.
 3. Close ChemDraw.
 4. Reopen ChemDraw and click **View > Templates > ITC Equipment**.
